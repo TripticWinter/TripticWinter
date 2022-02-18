@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TripticWinter
 - 👀 I’m interested in ... Making Music
 - 🌱 I’m currently learning ... The Melodic Minor Scale
-- 💞️ I’m looking to collaborate on ... Not programming anything I don't need to 
+- 💞️ I’m looking to collaborate on ... Making Music
 - 📫 How to reach me ... ...
 
 <!---
